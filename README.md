@@ -2,7 +2,7 @@
 
 My name is Marco Barboza. 
 
-I'm an Architect (of buildings) turned Software Engineer who is passionate about all things automation, blockchain, and AI.
+I'm an Architect and Designer (of buildings) turned Software Engineer who is passionate about all things automation, blockchain, and AI.
 
 ## 📫 Where to find me...
 <a href="https://www.linkedin.com/in/marco-barboza">
