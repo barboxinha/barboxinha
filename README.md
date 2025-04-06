@@ -23,6 +23,7 @@ My name is Marco Barboza. I'm an Architect (of buildings) turned Software Engine
 ![VSCode](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/visual%20studio-9210BA.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![.NET](https://img.shields.io/badge/dotnet-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/POSTGRES-316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
@@ -33,6 +34,7 @@ My name is Marco Barboza. I'm an Architect (of buildings) turned Software Engine
 ![babel](https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black)
 ![jquery](https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![selenium](https://img.shields.io/badge/selenium-52b73c.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 <!--
 **barboxinha/barboxinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
