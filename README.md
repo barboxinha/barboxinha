@@ -18,10 +18,11 @@ I'm an Architect (of buildings) turned Software Engineer who is passionate about
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=323330)
-![Bash](https://img.shields.io/badge/Bash-666666.svg?&style=for-the-badge&logo=PowerShell&logoColor=white)
+![Bash](https://img.shields.io/badge/BASH-666666.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/AZURE-28A1E5.svg?&style=for-the-badge&logo=azure&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/visual%20studio-9210BA.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![.NET](https://img.shields.io/badge/dotnet-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -38,18 +39,14 @@ I'm an Architect (of buildings) turned Software Engineer who is passionate about
 ![selenium](https://img.shields.io/badge/selenium-52b73c.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Swift](https://img.shields.io/badge/SWIFT-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 
-<!--
-**barboxinha/barboxinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=barboxinha&show_icons=true&theme=default&hide_border=false&locale=en)
+
+---
+
+![Counter](https://komarev.com/ghpvc/?username=barboxinha&style=flat-square&label=Profile%20Views)
