@@ -1,6 +1,8 @@
 ## Well Hello there 👋
 
-My name is Marco Barboza. I'm an Architect (of buildings) turned Software Engineer who is passionate about all things automation, blockchain, and AI.
+My name is Marco Barboza. 
+
+I'm an Architect (of buildings) turned Software Engineer who is passionate about all things automation, blockchain, and AI.
 
 ## 📫 Where to find me...
 <a href="https://www.linkedin.com/in/marco-barboza">
@@ -35,6 +37,7 @@ My name is Marco Barboza. I'm an Architect (of buildings) turned Software Engine
 ![jquery](https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![selenium](https://img.shields.io/badge/selenium-52b73c.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 
 <!--
 **barboxinha/barboxinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
