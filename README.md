@@ -8,6 +8,9 @@ I'm an Architect and Designer (of buildings) turned Software Engineer who is pas
 <a href="https://www.linkedin.com/in/marco-barboza">
     <img src="https://img.shields.io/badge/LinkedIn-blue?tab=followers?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
 </a>
+<a href="https://www.npmjs.com/~barboxinha">
+    <img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" alt="npm Badge" />
+</a>
 
 ## Tech I Have Used
 
